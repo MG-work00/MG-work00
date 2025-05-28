@@ -18,7 +18,7 @@
 ## 🔧 Tech Stack
 
 **Languages:**  
-JavaScript, TypeScript, HTML, CSS, Sass  
+JavaScript, HTML, CSS, Sass  
 
 **Frameworks & Libraries:**  
 React.js, Next.js, Redux, Tailwind CSS, Material-UI  
