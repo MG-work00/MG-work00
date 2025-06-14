@@ -31,6 +31,7 @@ Git, VS Code, Figma, Chrome DevTools
 ## 📫 Contact Me
 
 - 📧 Email: manishgohil521@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/manish-gohil-ba861a295/](https://www.linkedin.com/in/manish-gohil-ba861a295/)  
 - 🌐 Portfolio: [Visit My Portfolio](https://portfolio-fawn-iota-31.vercel.app/)
 
 ---
